@@ -10,6 +10,10 @@ Learning Raspberry.pi 🍰 , Machine Learning and C++!
 
 ## Projects 👨🏻‍💻
 
+**Blackjack | Dev & Designer
+[Blackjack](https://blackjackfun.netlify.app/)**
+
+
 **Personal Portfolio | Dev & Designer
 www.silasgebhart.com**
 
