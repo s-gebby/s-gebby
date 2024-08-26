@@ -10,6 +10,9 @@ Learning Raspberry.pi 🍰 , Machine Learning and C++!
 
 ## Projects 👨🏻‍💻
 
+**Jacked | Dev & Designer
+[Jacked](https://jackedfit.netlify.app/)**
+
 **Blackjack | Dev & Designer
 [Blackjack](https://blackjackfun.netlify.app/)**
 
