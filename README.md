@@ -58,10 +58,5 @@ Developed several full-stack applications as part of the curriculum, gaining han
 Engaged in collaborative projects, working with peers to design, develop, and deploy web applications from concept to completion.
 
 ## Skills
-**JavaScript**: ReactJS, Node.js, TailwindCSS
-
-**Python**: Flask, Data Analysis
-
-**Web**: HTML, CSS, Docker
-
-**Design**: Canva
+· ReactJS, Node.js, TailwindCSS, Firebase Authentication, and Firebase Cloudstore
+· Material UI, Motion, and Acerternity UI
