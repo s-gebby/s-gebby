@@ -8,24 +8,21 @@ Creative and driven software engineer with a strong foundation in full-stack dev
 
 Learning Raspberry.pi 🍰 , Machine Learning and C++!
 
+## Freelance Work
+
+**Sam Warder | Custom Portfolio for Digital Marketing Expert
+[Sam Warder](https://samwarder.netlify.app/)**
+
+I built this website using React.js and TailwindCSS for a sleek and responsive design. The design follows a clean, minimalistic, and fully responsive layout, utilizing Flexbox and Grid for structure. Custom animations and interactive elements powered by JavaScript add to the user experience, while performance is optimized through image compression and lazy loading. I implemented some animations that weren't normally used as background effects to show the out of the box thinking. This project reflects a modern approach to web development, designed for performance, security, and scalability.
+
 ## Projects 👨🏻‍💻
 
 **Jacked | Dev & Designer
 [Jacked](https://jackedfit.netlify.app/)**
 
-**Blackjack | Dev & Designer
-[Blackjack](https://blackjackfun.netlify.app/)**
+The JackedFit website was built using HTML, CSS, and JavaScript, with deployment handled by Netlify for continuous integration and automatic updates via GitHub. The design focuses on a bold, fitness-oriented layout, ensuring responsiveness across devices with Flexbox and Grid for layout control. Performance optimization techniques, such as lazy loading and image compression, were applied to enhance the speed of the website. Additionally, Netlify Forms were used for handling contact form submissions seamlessly.
 
-
-**Personal Portfolio | Dev & Designer
-www.silasgebhart.com**
-
-Created a professional portfolio website using an HTML5 UP template, enhanced with custom JavaScript and CSS to showcase my projects and technical expertise.
-Highlighted key projects and achievements, providing an accessible and visually appealing platform for potential employers and collaborators to explore my work.
-Implemented responsive design to ensure the site is optimized for viewing on various devices, from desktops to mobile phones.
-Focused on clean, modern design aesthetics, creating an intuitive navigation experience that guides visitors through my professional journey.
-Deployed the site on a reliable hosting platform, ensuring it is always available for visitors to view.
-
+This website offers a clean, energetic look, designed for fitness enthusiasts. Future plans include incorporating a blog section and advanced interactive features to enhance user engagement and site functionality.
 
 **Snake Game 🐍 · Game to Unwind | Dev & Designer
 [Snake Game](https://unique-clafoutis-60a774.netlify.app/)**
