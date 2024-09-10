@@ -25,9 +25,7 @@ I built this website using React.js and TailwindCSS for a sleek and responsive d
 **Jacked | Dev & Designer
 [Jacked](https://jackedfit.netlify.app/)**
 
-The JackedFit website was built using HTML, CSS, and JavaScript, with deployment handled by Netlify for continuous integration and automatic updates via GitHub. The design focuses on a bold, fitness-oriented layout, ensuring responsiveness across devices with Flexbox and Grid for layout control. Performance optimization techniques, such as lazy loading and image compression, were applied to enhance the speed of the website. Additionally, Netlify Forms were used for handling contact form submissions seamlessly.
-
-This website offers a clean, energetic look, designed for fitness enthusiasts. Future plans include incorporating a blog section and advanced interactive features to enhance user engagement and site functionality.
+The JackedFit website was built using HTML, CSS, and JavaScript, with deployment handled by Netlify for continuous integration and automatic updates via GitHub. The design focuses on a bold, fitness-oriented layout, ensuring responsiveness across devices with Flexbox and Grid for layout control. Performance optimization techniques, such as lazy loading and image compression, were applied to enhance the speed of the website. This website offers a clean, energetic look, designed for fitness enthusiasts. Future plans include incorporating a blog section and advanced interactive features to enhance user engagement and site functionality.
 
 **Snake Game 🐍 · Game to Unwind | Dev & Designer
 [Snake Game](https://unique-clafoutis-60a774.netlify.app/)**
@@ -56,5 +54,5 @@ Developed several full-stack applications as part of the curriculum, gaining han
 Engaged in collaborative projects, working with peers to design, develop, and deploy web applications from concept to completion.
 
 ## Skills
-· ReactJS, Node.js, TailwindCSS, Firebase Authentication, and Firebase Cloudstore
+· ReactJS, Node.js, TailwindCSS, SQL, Firebase Authentication, and Firebase Cloudstore
 · Material UI, Motion, and Acerternity UI
