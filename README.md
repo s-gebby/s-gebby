@@ -4,9 +4,7 @@
 
 Creative and driven software engineer with a strong foundation in full-stack development, specializing in building innovative and user-friendly applications. My passion for technology and problem-solving has led me to work on diverse projects ranging from web applications to complex system integrations. I thrive on continuous learning and enjoy exploring new technologies that can push the boundaries of what's possible in software engineering.
 
-***Currently, I enjoy working with ReactJS, Node.js, TailwindCSS and building SPA's.***
-
-Learning Raspberry.pi 🍰 , Machine Learning and C++!
+***Currently, I enjoy working with TailwindCSS, ReactJS, Node.js, and Firebase.***
 
 ## Current Project
 
