@@ -10,7 +10,7 @@ Learning Raspberry.pi 🍰 , Machine Learning and C++!
 
 ## Freelance Work
 
-**Sam Warder | Custom Portfolio for Digital Marketing Expert
+**Sam Warder · Custom Portfolio for Digital Marketing Expert | Dev & Designer
 [Sam Warder](https://samwarder.netlify.app/)**
 
 I built this website using React.js and TailwindCSS for a sleek and responsive design. The design follows a clean, minimalistic, and fully responsive layout, utilizing Flexbox and Grid for structure. Custom animations and interactive elements powered by JavaScript add to the user experience, while performance is optimized through image compression and lazy loading. I implemented some animations that weren't normally used as background effects to show the out of the box thinking. This project reflects a modern approach to web development, designed for performance, security, and scalability.
