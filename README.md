@@ -9,7 +9,7 @@ Creative and driven software engineer with a strong foundation in full-stack dev
 ## Current Project
 
 **Ascend · Goal Setting App | Dev & Designer
-[Ascend](https://ascentbeta.netlify.app/)**
+[Ascend](https://ascendbeta.netlify.app/)**
 
 I decided to build something that would help keep myself accountable with the goals I had. I wanted to have something interactive and something where it would give me positive feedback when completing a goal. Thus, Ascend became my baby. I built Ascend with React.js and TailwindCSS. For backend, I decided with Google Firebase🔥 to house the database and for authentication purposes. Throughout the process, I have found a new passion for development. Creating a UI that is interactive and sleek. I am still currently working on this, as I have plans to expand and improve the product. However, this is the beta version! Enjoy!
 
