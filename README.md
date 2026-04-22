@@ -54,5 +54,6 @@ Developed several full-stack applications as part of the curriculum, gaining han
 Engaged in collaborative projects, working with peers to design, develop, and deploy web applications from concept to completion.
 
 ## Skills
-· ReactJS, Node.js, TailwindCSS, SQL, Firebase Authentication, and Firebase Cloudstore
+· ReactJS, Node.js, TailwindCSS, SQL, Python
+· Firebase Authentication, and Firebase Cloudstore
 · Material UI, Motion, and Acerternity UI
