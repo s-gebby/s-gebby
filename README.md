@@ -1,24 +1,17 @@
 ## Silas Gebhart 😎
 
-**Oklahoma City, OK | [silasgebhart.com](https://www.silasgebhart.com/) · [LinkedIn](https://www.linkedin.com/in/silas-gebhart-079502193/) · [x.com](https://x.com/SilasGebhart)**
+**Oklahoma City, OK | [silasgebhart.com](https://www.silasgebhart.com/) · [x.com](https://x.com/SilasGebhart)**
 
 Creative and driven software engineer with a strong foundation in full-stack development, specializing in building innovative and user-friendly applications. My passion for technology and problem-solving has led me to work on diverse projects ranging from web applications to complex system integrations. I thrive on continuous learning and enjoy exploring new technologies that can push the boundaries of what's possible in software engineering.
 
-***Currently, I enjoy working with Python***
+Lately, that curiosity has pulled me toward aerospace engineering. I've been studying it on the side — working through the fundamentals of orbital mechanics, propulsion, and aerodynamics — because I find the intersection of software and aerospace genuinely fascinating. I'm still very much a student of it, but it's been a rewarding challenge that keeps me thinking in new ways.
 
-## Current Project
+## Languages & Technologies
 
-**Ascend · Goal Setting App | Dev & Designer
-[Ascend](https://ascendbeta.netlify.app/)**
+· ReactJS, Node.js, TailwindCSS
+· Python, SQL
+· C++, MATLAB
 
-I decided to build something that would help keep myself accountable with the goals I had. I wanted to have something interactive and something where it would give me positive feedback when completing a goal. Thus, Ascend became my baby. I built Ascend with React.js and TailwindCSS. For backend, I decided with Google Firebase🔥 to house the database and for authentication purposes. Throughout the process, I have found a new passion for development. Creating a UI that is interactive and sleek. I am still currently working on this, as I have plans to expand and improve the product. However, this is the beta version! Enjoy!
-
-## Freelance Work
-
-**Sam Warder · Custom Portfolio for Digital Marketing Expert | Dev & Designer
-[Sam Warder](https://samwarder.netlify.app/)**
-
-I built this website using React.js and TailwindCSS for a sleek and responsive design. The design follows a clean, minimalistic, and fully responsive layout, utilizing Flexbox and Grid for structure. Custom animations and interactive elements powered by JavaScript add to the user experience, while performance is optimized through image compression and lazy loading. I implemented some animations that weren't normally used as background effects to show the out of the box thinking. This project reflects a modern approach to web development, designed for performance, security, and scalability.
 
 ## Projects 👨🏻‍💻
 
@@ -43,17 +36,9 @@ Incorporated dynamic animations and interactive elements to make the page both f
 Optimized the page for fast loading times and seamless performance across various devices and screen sizes.
 Deployed the landing page on Netlify, ensuring easy access and a reliable hosting solution.
 
-## Education 🎓
+## Freelance Work
 
-**Flatiron School | Flex Software Engineering Program**
+**Sam Warder · Custom Portfolio for Digital Marketing Expert | Dev & Designer
+[Sam Warder](https://samwarder.netlify.app/)**
 
-***Remote/Self-Paced | Jan 2024 - Current***
-
-Completed an intensive software engineering program with a focus on full-stack development using modern technologies like JavaScript, React, Node.js, and PostgreSQL.
-Developed several full-stack applications as part of the curriculum, gaining hands-on experience in building scalable and maintainable software.
-Engaged in collaborative projects, working with peers to design, develop, and deploy web applications from concept to completion.
-
-## Skills
-· ReactJS, Node.js, TailwindCSS, SQL, Python
-· Firebase Authentication, and Firebase Cloudstore
-· Material UI, Motion, and Acerternity UI
+I built this website using React.js and TailwindCSS for a sleek and responsive design. The design follows a clean, minimalistic, and fully responsive layout, utilizing Flexbox and Grid for structure. Custom animations and interactive elements powered by JavaScript add to the user experience, while performance is optimized through image compression and lazy loading. I implemented some animations that weren't normally used as background effects to show the out of the box thinking. This project reflects a modern approach to web development, designed for performance, security, and scalability.
