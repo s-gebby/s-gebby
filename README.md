@@ -1,6 +1,6 @@
 ## Silas Gebhart 😎
 
-**Oklahoma City, OK | [silasgebhart.com](https://www.silasgebhart.com/) · [x.com](https://x.com/SilasGebhart)**
+**Honolulu,HI | [silasgebhart.com](https://www.silasgebhart.com/) · [x.com](https://x.com/SilasGebhart)**
 
 Creative and driven software engineer with a strong foundation in full-stack development, specializing in building innovative and user-friendly applications. My passion for technology and problem-solving has led me to work on diverse projects ranging from web applications to complex system integrations. I thrive on continuous learning and enjoy exploring new technologies that can push the boundaries of what's possible in software engineering.
 
